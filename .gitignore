@@ -2,6 +2,7 @@
 
 # Compiled output
 /dist
+.ideas
 /tmp
 /out-tsc
 /bazel-out
